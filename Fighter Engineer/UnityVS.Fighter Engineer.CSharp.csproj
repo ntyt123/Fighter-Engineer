@@ -194,7 +194,7 @@
     <Compile Include="Assets\Scripts\Table\TableEnemy.cs" />
     <Compile Include="Assets\Scripts\Table\TableLanguage.cs" />
     <Compile Include="Assets\Scripts\Table\TableParts.cs" />
-    <Compile Include="Assets\Scripts\Table\TableShop.cs" />
+    <Compile Include="Assets\Scripts\Table\Tablerecharge.cs" />
     <Compile Include="Assets\Scripts\Windows\UIBaseWnd.cs" />
     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />

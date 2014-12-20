@@ -2,7 +2,8 @@
 using System.Xml;
 using UnityEngine;
 using System.Collections;
-public class ShopItem
+using System.Collections.Generic;
+public class RechargeItem
 {
     public int ID;
     public string CnName;
@@ -14,13 +15,13 @@ public class ShopItem
     public int Price;
     public int GemNum;
 }
-public class TableShop : Table<TableShop>,ITable
+public class TableRecharge : Table<TableRecharge>, ITable
 {
-
+    Dictionary<int, RechargeItem> dicRechargeList = new Dictionary<int, RechargeItem>();
     public void Read()
     {
         XmlDocument xmldoc = new XmlDocument();
-        string xmlText = xLoad("Parts");
+        string xmlText = xLoad("Recharge");
         xmldoc.LoadXml(xmlText);
         XmlNodeList nodelist = xmldoc.SelectSingleNode("root").ChildNodes;
         foreach (XmlNode node in nodelist)
@@ -28,28 +29,22 @@ public class TableShop : Table<TableShop>,ITable
             XmlAttributeCollection xAC = node.Attributes;
             GetAttribute g = new GetAttribute(xAC);
             int id = int.Parse(node.Name.Replace("ID", ""));
-            PartsInfo info = new PartsInfo();
+            RechargeItem info = new RechargeItem();
             info.ID = id;
             info.CnName = g.getString("CnName");
-            info.ATK = g.getInt("ATK");
             info.CnContent = g.getString("CnContent");
             info.EnName = g.getString("EnName");
             info.EnContent = g.getString("EnContent");
             info.JpName = g.getString("JpName");
             info.JpContent = g.getString("JpContent");
-            info.Score = g.getInt("Score");
-            info.GemPrice = g.getInt("GemPrice");
-            info.HP = g.getInt("HP");
-            info.Mass = g.getInt("Mass");
             info.Price = g.getInt("Price");
-            info.SPD = g.getInt("SPD");
-            info.Type = g.getInt("Type");
-            if (!dicParts.ContainsKey(id))
+            info.GemNum = g.getInt("GemNum");
+            if (!dicRechargeList.ContainsKey(id))
             {
-                dicParts.Add(id, info);
+                dicRechargeList.Add(id, info);
             }
         }
         HasReadToMemory = true;
-        Debug.Log("TablePartsLoadDone!");
+        Debug.Log("TableRechargeLoadDone!");
     }
 }
