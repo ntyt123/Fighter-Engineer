@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<ID0 CnName="侦察者" EnName="侦察者" JpName="侦察者" Lv="0" Score="100" Money="10" Gem="0.005"/>
+	<ID1 CnName="歼灭者" EnName="歼灭者" JpName="歼灭者" Lv="1" Score="200" Money="20" Gem="0.01"/>
+	<ID2 CnName="毁灭者" EnName="毁灭者" JpName="毁灭者" Lv="2" Score="300" Money="30" Gem="0.015"/>
+	<ID3 CnName="指挥官" EnName="指挥官" JpName="指挥官" Lv="3" Score="400" Money="50" Gem="0.02"/>
+	<ID4 CnName="泰坦巡洋舰" EnName="泰坦巡洋舰" JpName="泰坦巡洋舰" Lv="4" Score="1000" Money="100" Gem="0.025"/>
+</root>

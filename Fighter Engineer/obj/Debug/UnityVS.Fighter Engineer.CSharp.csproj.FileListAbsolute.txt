@@ -1,0 +1,9 @@
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Fighter Engineer\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Fighter Engineer\obj\Debug\UnityVS.Fighter Engineer.CSharp.csprojResolveAssemblyReference.cache
+D:\Fighter Engineer\obj\Debug\Assembly-CSharp.dll
+D:\Fighter Engineer\obj\Debug\Assembly-CSharp.pdb

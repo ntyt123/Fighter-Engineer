@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<ID0 CnName="正方形装甲" EnName="正方形装甲" JpName="正方形装甲" CnContent="正方形装甲" EnContent="正方形装甲" JpContent="正方形装甲" Type="0" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID1 CnName="三角形装甲" EnName="三角形装甲" JpName="三角形装甲" CnContent="三角形装甲" EnContent="三角形装甲" JpContent="三角形装甲" Type="0" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID2 CnName="长方形装甲" EnName="长方形装甲" JpName="长方形装甲" CnContent="长方形装甲" EnContent="长方形装甲" JpContent="长方形装甲" Type="0" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID3 CnName="长杆形装甲" EnName="长杆形装甲" JpName="长杆形装甲" CnContent="长杆形装甲" EnContent="长杆形装甲" JpContent="长杆形装甲" Type="0" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID4 CnName="正三角形装甲" EnName="正三角形装甲" JpName="正三角形装甲" CnContent="正三角形装甲" EnContent="正三角形装甲" JpContent="正三角形装甲" Type="0" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID5 CnName="普通机枪" EnName="普通机枪" JpName="普通机枪" CnContent="普通机枪" EnContent="普通机枪" JpContent="普通机枪" Type="1" HP="20" ATK="5" SPD="0" Score="20" Price="20" GemPrice="0" Mass="5"/>
+	<ID6 CnName="激光炮" EnName="激光炮" JpName="激光炮" CnContent="激光炮" EnContent="激光炮" JpContent="激光炮" Type="1" HP="20" ATK="10" SPD="0" Score="20" Price="20" GemPrice="0" Mass="10"/>
+	<ID7 CnName="导弹" EnName="导弹" JpName="导弹" CnContent="导弹" EnContent="导弹" JpContent="导弹" Type="1" HP="20" ATK="20" SPD="0" Score="20" Price="20" GemPrice="0" Mass="10"/>
+	<ID8 CnName="格林机枪" EnName="格林机枪" JpName="格林机枪" CnContent="格林机枪" EnContent="格林机枪" JpContent="格林机枪" Type="1" HP="50" ATK="15" SPD="0" Score="40" Price="0" GemPrice="10" Mass="15"/>
+	<ID9 CnName="跟踪导弹" EnName="跟踪导弹" JpName="跟踪导弹" CnContent="跟踪导弹" EnContent="跟踪导弹" JpContent="跟踪导弹" Type="1" HP="50" ATK="20" SPD="0" Score="40" Price="0" GemPrice="10" Mass="15"/>
+	<ID10 CnName="初级推进器" EnName="初级推进器" JpName="初级推进器" CnContent="初级推进器" EnContent="初级推进器" JpContent="初级推进器" Type="2" HP="10" ATK="0" SPD="10" Score="10" Price="10" GemPrice="0" Mass="5"/>
+	<ID11 CnName="中级推进器" EnName="中级推进器" JpName="中级推进器" CnContent="中级推进器" EnContent="中级推进器" JpContent="中级推进器" Type="2" HP="20" ATK="0" SPD="15" Score="20" Price="20" GemPrice="0" Mass="10"/>
+	<ID12 CnName="高级推进器" EnName="高级推进器" JpName="高级推进器" CnContent="高级推进器" EnContent="高级推进器" JpContent="高级推进器" Type="2" HP="30" ATK="0" SPD="20" Score="30" Price="30" GemPrice="0" Mass="15"/>
+	<ID13 CnName="超级推进器" EnName="超级推进器" JpName="超级推进器" CnContent="超级推进器" EnContent="超级推进器" JpContent="超级推进器" Type="2" HP="40" ATK="0" SPD="25" Score="40" Price="0" GemPrice="10" Mass="20"/>
+	<ID14 CnName="泰坦级推进器" EnName="泰坦级推进器" JpName="泰坦级推进器" CnContent="泰坦级推进器" EnContent="泰坦级推进器" JpContent="泰坦级推进器" Type="2" HP="50" ATK="0" SPD="30" Score="50" Price="0" GemPrice="10" Mass="20"/>
+	<ID15 CnName="驾驶室" EnName="驾驶室" JpName="驾驶室" CnContent="驾驶室" EnContent="驾驶室" JpContent="驾驶室" Type="3" HP="100" ATK="100" SPD="0" Score="50" Price="0" GemPrice="10" Mass="10"/>
+	<ID16 CnName="初级天线" EnName="初级天线" JpName="初级天线" CnContent="初级天线" EnContent="初级天线" JpContent="初级天线" Type="4" HP="10" ATK="0" SPD="0" Score="10" Price="10" GemPrice="0" Mass="1"/>
+	<ID17 CnName="中级天线" EnName="中级天线" JpName="中级天线" CnContent="中级天线" EnContent="中级天线" JpContent="中级天线" Type="4" HP="15" ATK="0" SPD="0" Score="20" Price="20" GemPrice="0" Mass="5"/>
+	<ID18 CnName="高级天线" EnName="高级天线" JpName="高级天线" CnContent="高级天线" EnContent="高级天线" JpContent="高级天线" Type="4" HP="20" ATK="0" SPD="0" Score="30" Price="30" GemPrice="0" Mass="10"/>
+	<ID19 CnName="超级天线" EnName="超级天线" JpName="超级天线" CnContent="超级天线" EnContent="超级天线" JpContent="超级天线" Type="4" HP="25" ATK="0" SPD="0" Score="40" Price="0" GemPrice="10" Mass="15"/>
+	<ID20 CnName="未来天线" EnName="未来天线" JpName="未来天线" CnContent="未来天线" EnContent="未来天线" JpContent="未来天线" Type="4" HP="30" ATK="0" SPD="0" Score="50" Price="0" GemPrice="10" Mass="20"/>
+</root>

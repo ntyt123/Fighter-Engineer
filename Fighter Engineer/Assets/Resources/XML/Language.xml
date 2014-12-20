@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<ID0 cn="战机工程师" en="Fighter Engineer" jp="战机工程师"/>
+	<ID1 cn="开始游戏" en="Start Game" jp="开始游戏"/>
+	<ID2 cn="欢迎进入《战机工程师》" en="Welcome！" jp="欢迎进入《战机工程师》"/>
+	<ID3 cn="呀吼！可算把你盼来了，我尊敬的工程师。拿起你的扳手，改造出世界上最好的战机，给敌人点颜色瞧瞧吧！对了，现在只是Beta版，后续会有更多新内容加入哦！走着瞧吧!" en="Thank you for come in!" jp="呀吼！可算把你盼来了，我尊敬的工程师。拿起你的扳手，改造出世界上最好的战机，给敌人点颜色瞧瞧吧！对了，现在只是Beta版，后续会有更多新内容加入哦！走着瞧吧!"/>
+	<ID4 cn="KingRoy" en="KingRoy" jp="KingRoy"/>
+	<ID5 cn="设定" en="Option" jp="设定"/>
+	<ID6 cn="语言" en="Language" jp="语言"/>
+	<ID7 cn="中文" en="English" jp="Japanese"/>
+	<ID8 cn="机库" en="Garage" jp=""/>
+	<ID9 cn="战斗" en="Battle" jp=""/>
+	<ID10 cn="商店" en="Shop" jp=""/>
+	<ID11 cn="这是什么？" en="What's this?" jp=""/>
+	<ID12 cn="这里是主界面，你可以进入机库去创建或改造你的飞机，或者开着你的飞机去战斗赢取金币甚至是宝石！少量的宝石如果满足不了你的话，试试商店如何？" en="This Main window,men!" jp=""/>
+</root>

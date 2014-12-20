@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<ID0 CnName="飞行证书" CnContent="最高得分超过1000" EnName="飞行证书" EnContent="最高得分超过1000" JpName="飞行证书" JpContent="最高得分超过1000" Gem="10"/>
+	<ID1 CnName="王牌飞行员" CnContent="击落10架敌机" EnName="王牌飞行员" EnContent="击落10架敌机" JpName="王牌飞行员" JpContent="击落10架敌机" Gem="10"/>
+	<ID2 CnName="土豪" CnContent="拥有10000金币" EnName="土豪" EnContent="拥有10000金币" JpName="土豪" JpContent="拥有10000金币" Gem="20"/>
+	<ID3 CnName="收割机" CnContent="总伤害100000" EnName="收割机" EnContent="总伤害100000" JpName="收割机" JpContent="总伤害100000" Gem="50"/>
+	<ID4 CnName="时间不要钱" CnContent="游戏时间超过十小时" EnName="时间不要钱" EnContent="游戏时间超过十小时" JpName="时间不要钱" JpContent="游戏时间超过十小时" Gem="100"/>
+	<ID5 CnName="实验者" CnContent="购买价值超过1000金币的部件" EnName="实验者" EnContent="购买价值超过1000金币的部件" JpName="实验者" JpContent="购买价值超过1000金币的部件" Gem="10"/>
+	<ID6 CnName="巨无霸" CnContent="在一台飞机上装上超过5个武器" EnName="巨无霸" EnContent="在一台飞机上装上超过5个武器" JpName="巨无霸" JpContent="在一台飞机上装上超过5个武器" Gem="50"/>
+	<ID7 CnName="看，烟火" CnContent="被击落100次" EnName="看，烟火" EnContent="被击落100次" JpName="看，烟火" JpContent="被击落100次" Gem="100"/>
+	<ID8 CnName="真土豪" CnContent="购买了超过50个宝石" EnName="真土豪" EnContent="购买了超过50个宝石" JpName="真土豪" JpContent="购买了超过50个宝石" Gem="50"/>
+	<ID9 CnName="工程师" CnContent="一个部件达到顶级" EnName="工程师" EnContent="一个部件达到顶级" JpName="工程师" JpContent="一个部件达到顶级" Gem="10"/>
+</root>

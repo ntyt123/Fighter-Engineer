@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<ID1 CnName="一堆宝石" EnName="一堆宝石" JpName="一堆宝石" CnContent="50个" EnContent="50个" JpContent="50个" Price="20" GemNum="50"/>
+	<ID2 CnName="一袋宝石" EnName="一袋宝石" JpName="一袋宝石" CnContent="100个" EnContent="100个" JpContent="100个" Price="40" GemNum="100"/>
+	<ID3 CnName="三袋宝石" EnName="三袋宝石" JpName="三袋宝石" CnContent="300个" EnContent="300个" JpContent="300个" Price="130" GemNum="300"/>
+	<ID4 CnName="一大堆宝石" EnName="一大堆宝石" JpName="一大堆宝石" CnContent="1000个" EnContent="1000个" JpContent="1000个" Price="450" GemNum="1000"/>
+</root>
